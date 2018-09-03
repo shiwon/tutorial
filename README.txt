@@ -1,4 +1,2 @@
-
-hello,world
-
-fatal EROOR
+i
+hello,worldnknvs
